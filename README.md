@@ -231,3 +231,17 @@ Alternatively, you can do this through the GUI:
 Click Apply and reconnect.
 
 I went with the nmcli method, and it worked like a charm. Parrot now boots up with the right IP address, connects to pfSense, and has internet access routed through the firewall — no more manual commands every time!
+
+
+
+Now the pfSense is ready. 
+
+![Screenshot From 2025-04-20 16-24-46](https://github.com/user-attachments/assets/90e8534e-c209-40ee-8c26-1ea6fe20878f)
+
+Next, I switched over to my Parrot OS and accessed the pfSense web interface by entering the LAN IP address 192.168.1.1 into the browser.
+
+![Screenshot From 2025-04-20 16-24-25](https://github.com/user-attachments/assets/3f83cade-bc8f-4b5b-a2b9-41ffaa8e21f9)
+
+
+
+
